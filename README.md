@@ -1,4 +1,4 @@
--Meu nome é **João Marco Ussifati**.
--Sou estudante da escola E.E. **9 DE JULHO**.
--Estou fazendo o curso do **Alura** da **1° Série** do __Ensino Médio__.
+- Meu nome é **João Marco Ussifati**.
+- Sou estudante da escola E.E. **9 DE JULHO**.
+- Estou fazendo o curso do **Alura** da **1° Série** do __Ensino Médio__.
 - ![](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDRoM2gzaGx2djd3eG44cGdqZDQ0NmJneGp2Mm1nNXRxazJvdDlrcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KyIaRm6jYlAGyJ86zH/giphy.gif)
